@@ -1,0 +1,22 @@
+This experiment produces 2 output files - here you can find some additional information about them.
+
+
+
+
+'Produced_Data.csv' is a CSV file produced after running source code 
+(it will be saved in the same file as source code). This file has 4 columns
+and  13 (12+1) rows. The first column represents Dates (year 2016) corresponding 
+to the total monthly bicycle ride on Vienna bicycle routes, which is the second column. 
+The third column represents Dates corresponding to the monthly number of measles infections
+per million for the EU/EEA region (year 2017/2018), which is the fourth column. 
+The first row contains the names of the columns. 
+
+
+
+
+
+The exported graphics can be saved as PNG file. This graph shows the points saved in the CSV file above.
+The x-axes represent 12 months (not the particular 12 months, they are different for both data points).
+There are two y-axes, one per dataset. They are correspondingly marked- the left one represents 
+total monthly rides in Vienna bicycle routes and the right one represents the monthly number of 
+measles infections per million in the EU/EEA region.  

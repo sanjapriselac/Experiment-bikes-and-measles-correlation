@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<title> Correlation between the number of bicycles on Vienna bike routes and 
+    the number of measles infection in EU/EEA region </title>
+<creator> Sanja Priselac (https://orcid.org/0000-0002-0991-7865)</creator>
+<subject> Correlation between the number of bicycles on Vienna bike routes 
+    and the number of measles infection in EU/EEA region </subject>
+<description> An automated tool that investigates and plots the correlation 
+    between the number of bicycles on Vienna bicycle routes in 2016 and 
+    the number of measles infections per million in EU/EE </description>
+<date> 22.04.2019 </date>
+<type> Data Generation </type>
+<format> R file (RStudio) </format>
+<source> Bicycle traffic census for selected routes, Stadt Wien (2019) </source>
+<source> Measles Data, ECDC (2019) </source>
+<language> English </language>
+<coverage> 2016 - 2018 </coverage>
+<rights> Free Access </rights> 
+</metadata>
